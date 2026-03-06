@@ -27,7 +27,7 @@ With **12 unique AI personas**, each with a colored icon, your cooking journey b
   Visual previews of your meals for inspiration and presentation.
 
 * **💬 ChatGPT-Style Chat**
-  Ask questions and receive responses from **12 AI personas** with unique colored icons:
+  Ask questions and receive responses from **12 AI personas** with unique colored icons featuring BINI and All Time Low:
 
   * 💙 Jhoanna
   * 💚 Colet
@@ -151,3 +151,4 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 * Integration with grocery delivery services
 
 ---
+
