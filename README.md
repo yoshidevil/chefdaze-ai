@@ -151,4 +151,3 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 * Integration with grocery delivery services
 
 ---
-
