@@ -151,4 +151,12 @@ This project is licensed under the **MIT License**.
 - Voice cooking assistant
 - Grocery delivery integration
 
+---
+
+## 🚀 Deployment
+
+```
+https://appapp-4214.streamlit.app/
+```
+
 
